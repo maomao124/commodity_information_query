@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 /**
- * Project name(项目名称)：商品信息查询
+ * Project name(项目名称)：商品信息查询 commodity_information_query
  * Package(包名): PACKAGE_NAME
  * Author(作者）: mao
  * Author QQ：1296193245
